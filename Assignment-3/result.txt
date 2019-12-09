@@ -1,0 +1,41 @@
+Logic AND
+X0      X1      X2      Y
+1       0       0       0
+1       0       1       0
+1       1       0       0
+1       1       1       1
+Logic OR
+X0      X1      X2      Y
+1       0       0       0
+1       0       1       1
+1       1       0       1
+1       1       1       1
+Logic NAND
+X0      X1      X2      Y
+1       0       0       1
+1       0       1       1
+1       1       0       1
+1       1       1       0
+Logic NOR
+X0      X1      X2      Y
+1       0       0       1
+1       0       1       0
+1       1       0       0
+1       1       1       0
+Logic XOR
+X0      X1      X2      Y
+1       0       0       1
+1       0       1       1
+1       1       0       1
+1       1       1       1
+Logic XNOR
+X0      X1      X2      Y
+1       0       0       1
+1       0       1       1
+1       1       0       1
+1       1       1       1
+Logic NOT
+X       Y
+0       1
+1       0
+
